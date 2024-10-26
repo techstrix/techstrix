@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @techstrix
-- 👀 I’m interested in python and web
-- 🌱 I’m currently learning python advanced stuff
+- 👀 I’m interested in python,web,goland typescript etc..... 
+- 🌱 I’m currently learning python advanced stuff and system stuff
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
 
 <!---
 techstrix/techstrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
